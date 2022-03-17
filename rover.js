@@ -65,11 +65,3 @@ export default function rover(command) {
 
     return { x: xCoordinate, y: yCoordinate, direction }
 }
-
-
-
-// Calling rover() And Store Value In firstCommand Variable
-//const firstCommand = rover('FLFFFRFLB')
-
-// Get The Output
-//console.log(firstCommand)
